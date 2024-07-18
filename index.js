@@ -20,3 +20,5 @@ function timer() {
 }
 
 setInterval(timer, 1000); // 1000 it means 1 sec
+
+window.$crisp=[];window.CRISP_WEBSITE_ID="cbc805c6-c48a-423d-bafe-c5b7fae4c33c";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();
